@@ -1,0 +1,879 @@
+vendor, city, state, distance, transCat, transType, amount
+Safeway, Seattle, WA, 20, electronics, TV, 3891.0
+Amazon, Online, NA, 0, wire transfer, gift card, 464.0
+Amazon, Online, NA, 0, grocery, food, 715.0
+Safeway, Woodinville, WA, 0, grocery, personal care, 7.0
+Amazon, Online, NA, 0, grocery, personal care, 196.0
+Amazon, Online, NA, 0, withdrawl, BANK, 265.0
+QFC, Kirkland, WA, 8, wire transfer, Fred Meyer, 4557.0
+QFC, Kirkland, WA, 8, clothing, shoes, 669.0
+Amazon, Online, NA, 0, entertainment, movie, 164.0
+Amazon, Online, NA, 0, withdrawl, ATM, 39.0
+QFC, Kirkland, WA, 8, grocery, personal care, 24.0
+Amazon, Online, NA, 0, restaurant, fast food, 27.0
+QFC, Kirkland, WA, 8, electronics, computer, 1413.0
+Safeway, Woodinville, WA, 0, entertainment, movie, 162.0
+Safeway, Woodinville, WA, 0, electronics, stereo, 2793.0
+Safeway, Woodinville, WA, 0, grocery, food, 449.0
+Safeway, Woodinville, WA, 0, electronics, stereo, 1403.0
+QFC, Kirkland, WA, 8, restaurant, steak, 95.0
+Amazon, Online, NA, 0, grocery, personal care, 123.0
+Safeway, Seattle, WA, 20, withdrawl, ATM, 189.0
+Safeway, Woodinville, WA, 0, clothing, jeans, 173.0
+Safeway, Woodinville, WA, 0, clothing, shoes, 560.0
+Safeway, Seattle, WA, 20, restaurant, fast food, 76.0
+Safeway, Seattle, WA, 20, restaurant, dim sum, 139.0
+Safeway, Woodinville, WA, 0, withdrawl, BANK, 155.0
+Safeway, Seattle, WA, 20, clothing, dress, 215.0
+Safeway, Seattle, WA, 20, withdrawl, ATM, 276.0
+Amazon, Online, NA, 0, electronics, TV, 2014.0
+Safeway, Woodinville, WA, 0, electronics, cell phone, 2798.0
+QFC, Kirkland, WA, 8, wire transfer, Wells Fargo, 6307.0
+QFC, Kirkland, WA, 8, clothing, shirt, 49.0
+Safeway, Seattle, WA, 20, clothing, shirt, 95.0
+Amazon, Online, NA, 0, electronics, computer, 1304.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 80.0
+Safeway, Woodinville, WA, 0, restaurant, fast food, 42.0
+Safeway, Seattle, WA, 20, grocery, food, 157.0
+Safeway, Seattle, WA, 20, withdrawl, BANK, 98.0
+Safeway, Seattle, WA, 20, withdrawl, ATM, 92.0
+Safeway, Woodinville, WA, 0, clothing, dress, 1052.0
+Safeway, Seattle, WA, 20, grocery, food, 1433.0
+QFC, Kirkland, WA, 8, entertainment, movie, 27.0
+Amazon, Online, NA, 0, clothing, shirt, 23.0
+Amazon, Online, NA, 0, restaurant, fast food, 17.0
+Amazon, Online, NA, 0, wire transfer, gift card, 165.0
+Amazon, Online, NA, 0, electronics, TV, 1529.0
+Safeway, Woodinville, WA, 0, grocery, food, 520.0
+Amazon, Online, NA, 0, grocery, personal care, 123.0
+Safeway, Seattle, WA, 20, grocery, personal care, 53.0
+QFC, Kirkland, WA, 8, electronics, cell phone, 1354.0
+Amazon, Online, NA, 0, restaurant, dim sum, 282.0
+QFC, Kirkland, WA, 8, grocery, food, 803.0
+Safeway, Woodinville, WA, 0, withdrawl, BANK, 15.0
+QFC, Kirkland, WA, 8, grocery, personal care, 178.0
+Safeway, Seattle, WA, 20, entertainment, dining, 398.0
+Amazon, Online, NA, 0, grocery, food, 536.0
+Safeway, Seattle, WA, 20, clothing, dress, 386.0
+Safeway, Seattle, WA, 20, electronics, TV, 788.0
+Amazon, Online, NA, 0, restaurant, steak, 407.0
+Amazon, Online, NA, 0, electronics, computer, 1678.0
+QFC, Kirkland, WA, 8, electronics, stereo, 2242.0
+Amazon, Online, NA, 0, electronics, TV, 595.0
+QFC, Kirkland, WA, 8, clothing, shirt, 21.0
+Safeway, Seattle, WA, 20, grocery, food, 31.0
+Safeway, Woodinville, WA, 0, entertainment, movie, 23.0
+QFC, Kirkland, WA, 8, grocery, personal care, 16.0
+QFC, Kirkland, WA, 8, grocery, personal care, 50.0
+QFC, Kirkland, WA, 8, wire transfer, Safeway, 9839.0
+QFC, Kirkland, WA, 8, entertainment, movie, 60.0
+Amazon, Online, NA, 0, electronics, stereo, 930.0
+Amazon, Online, NA, 0, clothing, shoes, 268.0
+Amazon, Online, NA, 0, grocery, personal care, 86.0
+Amazon, Online, NA, 0, clothing, dress, 1063.0
+Amazon, Online, NA, 0, grocery, food, 702.0
+QFC, Kirkland, WA, 8, withdrawl, BANK, 65.0
+Safeway, Seattle, WA, 20, electronics, cell phone, 2723.0
+Safeway, Woodinville, WA, 0, electronics, computer, 1884.0
+Safeway, Seattle, WA, 20, entertainment, bowling, 488.0
+Safeway, Seattle, WA, 20, electronics, stereo, 663.0
+Safeway, Woodinville, WA, 0, clothing, jeans, 231.0
+Safeway, Seattle, WA, 20, grocery, food, 1641.0
+Amazon, Online, NA, 0, restaurant, steak, 448.0
+QFC, Kirkland, WA, 8, withdrawl, ATM, 298.0
+Safeway, Woodinville, WA, 0, entertainment, dining, 301.0
+Safeway, Woodinville, WA, 0, entertainment, movie, 102.0
+Safeway, Seattle, WA, 20, restaurant, seafood, 231.0
+Safeway, Seattle, WA, 20, grocery, personal care, 155.0
+Amazon, Online, NA, 0, withdrawl, BANK, 173.0
+Amazon, Online, NA, 0, grocery, personal care, 104.0
+Amazon, Online, NA, 0, clothing, shirt, 88.0
+Amazon, Online, NA, 0, restaurant, fast food, 75.0
+Safeway, Woodinville, WA, 0, entertainment, movie, 28.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 27.0
+QFC, Kirkland, WA, 8, grocery, food, 334.0
+Safeway, Seattle, WA, 20, withdrawl, BANK, 199.0
+QFC, Kirkland, WA, 8, electronics, stereo, 2399.0
+Amazon, Online, NA, 0, withdrawl, ATM, 255.0
+QFC, Kirkland, WA, 8, restaurant, dim sum, 757.0
+Amazon, Online, NA, 0, grocery, personal care, 41.0
+Amazon, Online, NA, 0, wire transfer, Wells Fargo, 1035.0
+Safeway, Seattle, WA, 20, grocery, personal care, 190.0
+Safeway, Woodinville, WA, 0, restaurant, steak, 235.0
+QFC, Kirkland, WA, 8, grocery, food, 669.0
+Safeway, Seattle, WA, 20, restaurant, fast food, 42.0
+Safeway, Seattle, WA, 20, entertainment, dining, 794.0
+Safeway, Woodinville, WA, 0, withdrawl, BANK, 264.0
+QFC, Kirkland, WA, 8, restaurant, fast food, 11.0
+Safeway, Seattle, WA, 20, entertainment, dining, 444.0
+Safeway, Woodinville, WA, 0, electronics, computer, 424.0
+QFC, Kirkland, WA, 8, restaurant, steak, 183.0
+Safeway, Seattle, WA, 20, entertainment, bowling, 164.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 96.0
+Safeway, Seattle, WA, 20, restaurant, dim sum, 580.0
+QFC, Kirkland, WA, 8, restaurant, steak, 351.0
+Safeway, Seattle, WA, 20, withdrawl, ATM, 89.0
+Safeway, Seattle, WA, 20, electronics, cell phone, 1059.0
+Amazon, Online, NA, 0, wire transfer, Fred Meyer, 7217.0
+Safeway, Seattle, WA, 20, withdrawl, BANK, 209.0
+Safeway, Seattle, WA, 20, wire transfer, Wells Fargo, 2670.0
+Safeway, Seattle, WA, 20, wire transfer, Fred Meyer, 2718.0
+Amazon, Online, NA, 0, withdrawl, BANK, 171.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 289.0
+QFC, Kirkland, WA, 8, grocery, food, 307.0
+Amazon, Online, NA, 0, withdrawl, BANK, 262.0
+Safeway, Woodinville, WA, 0, restaurant, fast food, 90.0
+Safeway, Woodinville, WA, 0, entertainment, movie, 167.0
+Safeway, Woodinville, WA, 0, restaurant, fast food, 49.0
+Safeway, Woodinville, WA, 0, restaurant, fast food, 74.0
+Safeway, Woodinville, WA, 0, clothing, shirt, 41.0
+Safeway, Seattle, WA, 20, electronics, computer, 522.0
+QFC, Kirkland, WA, 8, restaurant, steak, 79.0
+Amazon, Online, NA, 0, grocery, personal care, 197.0
+Safeway, Woodinville, WA, 0, entertainment, bowling, 329.0
+Safeway, Woodinville, WA, 0, entertainment, dining, 156.0
+Amazon, Online, NA, 0, withdrawl, BANK, 252.0
+Safeway, Seattle, WA, 20, grocery, personal care, 153.0
+Safeway, Seattle, WA, 20, grocery, food, 595.0
+QFC, Kirkland, WA, 8, restaurant, steak, 123.0
+Safeway, Seattle, WA, 20, electronics, cell phone, 479.0
+Safeway, Seattle, WA, 20, electronics, cell phone, 2738.0
+Safeway, Woodinville, WA, 0, electronics, stereo, 1083.0
+Safeway, Seattle, WA, 20, withdrawl, BANK, 139.0
+Amazon, Online, NA, 0, wire transfer, gift card, 277.0
+QFC, Kirkland, WA, 8, withdrawl, BANK, 101.0
+QFC, Kirkland, WA, 8, entertainment, dining, 977.0
+Safeway, Woodinville, WA, 0, electronics, TV, 4736.0
+Amazon, Online, NA, 0, restaurant, fast food, 80.0
+Amazon, Online, NA, 0, grocery, food, 131.0
+QFC, Kirkland, WA, 8, restaurant, fast food, 99.0
+Safeway, Woodinville, WA, 0, entertainment, bowling, 378.0
+Safeway, Seattle, WA, 20, restaurant, fast food, 72.0
+QFC, Kirkland, WA, 8, clothing, shoes, 352.0
+Safeway, Seattle, WA, 20, electronics, computer, 780.0
+Safeway, Woodinville, WA, 0, clothing, shirt, 82.0
+QFC, Kirkland, WA, 8, entertainment, movie, 179.0
+Amazon, Online, NA, 0, clothing, jeans, 97.0
+Safeway, Seattle, WA, 20, withdrawl, ATM, 262.0
+Amazon, Online, NA, 0, entertainment, bowling, 69.0
+Safeway, Woodinville, WA, 0, restaurant, steak, 311.0
+QFC, Kirkland, WA, 8, grocery, personal care, 173.0
+QFC, Kirkland, WA, 8, wire transfer, Fred Meyer, 5144.0
+QFC, Kirkland, WA, 8, withdrawl, BANK, 295.0
+QFC, Kirkland, WA, 8, grocery, personal care, 79.0
+Safeway, Seattle, WA, 20, grocery, food, 1897.0
+Amazon, Online, NA, 0, restaurant, steak, 313.0
+Safeway, Seattle, WA, 20, grocery, personal care, 37.0
+Amazon, Online, NA, 0, grocery, personal care, 9.0
+QFC, Kirkland, WA, 8, grocery, personal care, 121.0
+Safeway, Seattle, WA, 20, clothing, shoes, 937.0
+Amazon, Online, NA, 0, clothing, jeans, 436.0
+QFC, Kirkland, WA, 8, restaurant, steak, 263.0
+QFC, Kirkland, WA, 8, grocery, personal care, 182.0
+Safeway, Woodinville, WA, 0, entertainment, movie, 28.0
+Safeway, Woodinville, WA, 0, entertainment, bowling, 273.0
+Safeway, Woodinville, WA, 0, entertainment, movie, 83.0
+Amazon, Online, NA, 0, wire transfer, QFC, 2581.0
+Amazon, Online, NA, 0, withdrawl, BANK, 79.0
+QFC, Kirkland, WA, 8, withdrawl, BANK, 132.0
+Safeway, Woodinville, WA, 0, restaurant, fast food, 45.0
+Amazon, Online, NA, 0, withdrawl, BANK, 208.0
+QFC, Kirkland, WA, 8, entertainment, movie, 64.0
+QFC, Kirkland, WA, 8, restaurant, fast food, 25.0
+QFC, Kirkland, WA, 8, electronics, cell phone, 503.0
+Safeway, Seattle, WA, 20, clothing, jeans, 68.0
+QFC, Kirkland, WA, 8, withdrawl, ATM, 263.0
+Safeway, Woodinville, WA, 0, entertainment, dining, 260.0
+Safeway, Seattle, WA, 20, wire transfer, Fred Meyer, 6085.0
+Safeway, Seattle, WA, 20, withdrawl, BANK, 98.0
+Amazon, Online, NA, 0, entertainment, movie, 145.0
+Safeway, Seattle, WA, 20, grocery, personal care, 113.0
+Safeway, Woodinville, WA, 0, clothing, jeans, 359.0
+Amazon, Online, NA, 0, entertainment, movie, 160.0
+Safeway, Woodinville, WA, 0, grocery, food, 1644.0
+Safeway, Seattle, WA, 20, entertainment, dining, 783.0
+Safeway, Seattle, WA, 20, restaurant, steak, 231.0
+QFC, Kirkland, WA, 8, restaurant, dim sum, 649.0
+QFC, Kirkland, WA, 8, grocery, food, 1471.0
+QFC, Kirkland, WA, 8, restaurant, fast food, 34.0
+Safeway, Seattle, WA, 20, entertainment, movie, 40.0
+Safeway, Seattle, WA, 20, clothing, dress, 1557.0
+Safeway, Woodinville, WA, 0, clothing, shirt, 62.0
+Safeway, Woodinville, WA, 0, withdrawl, BANK, 100.0
+Amazon, Online, NA, 0, restaurant, seafood, 487.0
+Amazon, Online, NA, 0, withdrawl, ATM, 279.0
+Amazon, Online, NA, 0, grocery, food, 1464.0
+QFC, Kirkland, WA, 8, grocery, food, 1740.0
+Safeway, Woodinville, WA, 0, electronics, cell phone, 628.0
+QFC, Kirkland, WA, 8, grocery, food, 317.0
+QFC, Kirkland, WA, 8, clothing, shoes, 390.0
+Amazon, Online, NA, 0, withdrawl, BANK, 51.0
+Safeway, Seattle, WA, 20, withdrawl, ATM, 226.0
+Safeway, Seattle, WA, 20, electronics, cell phone, 1025.0
+QFC, Kirkland, WA, 8, grocery, personal care, 52.0
+Amazon, Online, NA, 0, restaurant, dim sum, 277.0
+QFC, Kirkland, WA, 8, clothing, shirt, 91.0
+QFC, Kirkland, WA, 8, withdrawl, ATM, 140.0
+Amazon, Online, NA, 0, entertainment, dining, 602.0
+Amazon, Online, NA, 0, restaurant, fast food, 66.0
+Safeway, Woodinville, WA, 0, withdrawl, BANK, 111.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 261.0
+QFC, Kirkland, WA, 8, grocery, food, 568.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 246.0
+QFC, Kirkland, WA, 8, wire transfer, Safeway, 2219.0
+Safeway, Seattle, WA, 20, restaurant, fast food, 70.0
+Safeway, Woodinville, WA, 0, entertainment, bowling, 342.0
+QFC, Kirkland, WA, 8, electronics, cell phone, 913.0
+Safeway, Seattle, WA, 20, clothing, shoes, 396.0
+Amazon, Online, NA, 0, entertainment, bowling, 446.0
+Safeway, Woodinville, WA, 0, electronics, cell phone, 1370.0
+QFC, Kirkland, WA, 8, clothing, dress, 921.0
+Amazon, Online, NA, 0, electronics, TV, 4907.0
+Safeway, Seattle, WA, 20, entertainment, dining, 566.0
+QFC, Kirkland, WA, 8, entertainment, bowling, 431.0
+Safeway, Seattle, WA, 20, entertainment, bowling, 302.0
+Safeway, Woodinville, WA, 0, clothing, shirt, 41.0
+QFC, Kirkland, WA, 8, electronics, cell phone, 1958.0
+Amazon, Online, NA, 0, grocery, personal care, 74.0
+Amazon, Online, NA, 0, entertainment, bowling, 450.0
+Amazon, Online, NA, 0, restaurant, fast food, 44.0
+QFC, Kirkland, WA, 8, grocery, food, 497.0
+QFC, Kirkland, WA, 8, clothing, shirt, 27.0
+QFC, Kirkland, WA, 8, restaurant, seafood, 351.0
+QFC, Kirkland, WA, 8, grocery, personal care, 37.0
+Amazon, Online, NA, 0, entertainment, dining, 767.0
+Amazon, Online, NA, 0, electronics, stereo, 1315.0
+Amazon, Online, NA, 0, restaurant, seafood, 191.0
+Amazon, Online, NA, 0, withdrawl, ATM, 222.0
+QFC, Kirkland, WA, 8, clothing, shirt, 70.0
+Amazon, Online, NA, 0, grocery, personal care, 192.0
+Safeway, Seattle, WA, 20, grocery, personal care, 180.0
+Safeway, Seattle, WA, 20, withdrawl, ATM, 185.0
+QFC, Kirkland, WA, 8, restaurant, steak, 189.0
+Safeway, Seattle, WA, 20, withdrawl, ATM, 264.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 117.0
+QFC, Kirkland, WA, 8, entertainment, bowling, 149.0
+Safeway, Woodinville, WA, 0, clothing, jeans, 494.0
+Safeway, Seattle, WA, 20, clothing, shirt, 42.0
+Amazon, Online, NA, 0, restaurant, fast food, 47.0
+QFC, Kirkland, WA, 8, clothing, shoes, 289.0
+Safeway, Woodinville, WA, 0, electronics, computer, 1697.0
+Amazon, Online, NA, 0, electronics, computer, 1154.0
+Safeway, Seattle, WA, 20, withdrawl, BANK, 55.0
+QFC, Kirkland, WA, 8, electronics, TV, 1323.0
+Amazon, Online, NA, 0, restaurant, seafood, 242.0
+Amazon, Online, NA, 0, electronics, computer, 1471.0
+Safeway, Woodinville, WA, 0, grocery, food, 358.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 232.0
+Safeway, Seattle, WA, 20, entertainment, movie, 75.0
+Safeway, Seattle, WA, 20, wire transfer, Fred Meyer, 2223.0
+Safeway, Woodinville, WA, 0, withdrawl, BANK, 65.0
+Amazon, Online, NA, 0, withdrawl, ATM, 94.0
+QFC, Kirkland, WA, 8, withdrawl, BANK, 266.0
+QFC, Kirkland, WA, 8, clothing, dress, 1111.0
+QFC, Kirkland, WA, 8, clothing, shoes, 163.0
+Safeway, Woodinville, WA, 0, entertainment, dining, 723.0
+Safeway, Seattle, WA, 20, grocery, personal care, 79.0
+Amazon, Online, NA, 0, grocery, food, 1476.0
+Amazon, Online, NA, 0, electronics, computer, 1195.0
+Safeway, Woodinville, WA, 0, entertainment, dining, 560.0
+Safeway, Seattle, WA, 20, entertainment, bowling, 93.0
+Safeway, Woodinville, WA, 0, clothing, shoes, 847.0
+Safeway, Woodinville, WA, 0, grocery, personal care, 173.0
+QFC, Kirkland, WA, 8, restaurant, fast food, 84.0
+Safeway, Woodinville, WA, 0, restaurant, fast food, 56.0
+Safeway, Seattle, WA, 20, restaurant, seafood, 75.0
+Safeway, Seattle, WA, 20, restaurant, steak, 474.0
+Safeway, Seattle, WA, 20, entertainment, dining, 451.0
+Safeway, Seattle, WA, 20, restaurant, dim sum, 311.0
+Amazon, Online, NA, 0, withdrawl, BANK, 156.0
+Amazon, Online, NA, 0, entertainment, movie, 95.0
+Amazon, Online, NA, 0, clothing, shoes, 618.0
+Safeway, Woodinville, WA, 0, electronics, cell phone, 1964.0
+Safeway, Seattle, WA, 20, wire transfer, Fred Meyer, 4235.0
+Amazon, Online, NA, 0, wire transfer, Wells Fargo, 2233.0
+QFC, Kirkland, WA, 8, electronics, stereo, 2605.0
+QFC, Kirkland, WA, 8, entertainment, dining, 553.0
+Safeway, Seattle, WA, 20, electronics, stereo, 984.0
+Amazon, Online, NA, 0, restaurant, dim sum, 289.0
+QFC, Kirkland, WA, 8, restaurant, fast food, 19.0
+Safeway, Woodinville, WA, 0, wire transfer, gift card, 263.0
+Safeway, Woodinville, WA, 0, restaurant, seafood, 122.0
+Safeway, Seattle, WA, 20, withdrawl, ATM, 150.0
+Safeway, Woodinville, WA, 0, restaurant, dim sum, 660.0
+Safeway, Seattle, WA, 20, electronics, computer, 1364.0
+Amazon, Online, NA, 0, withdrawl, ATM, 236.0
+Amazon, Online, NA, 0, clothing, jeans, 479.0
+Amazon, Online, NA, 0, grocery, personal care, 90.0
+QFC, Kirkland, WA, 8, restaurant, fast food, 38.0
+Safeway, Seattle, WA, 20, electronics, computer, 648.0
+Amazon, Online, NA, 0, electronics, stereo, 1280.0
+Safeway, Seattle, WA, 20, electronics, cell phone, 2480.0
+Safeway, Seattle, WA, 20, electronics, computer, 443.0
+QFC, Kirkland, WA, 8, grocery, personal care, 50.0
+QFC, Kirkland, WA, 8, entertainment, bowling, 391.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 37.0
+Amazon, Online, NA, 0, electronics, computer, 554.0
+Amazon, Online, NA, 0, grocery, food, 1403.0
+Amazon, Online, NA, 0, wire transfer, Safeway, 9129.0
+Safeway, Woodinville, WA, 0, electronics, TV, 2578.0
+Safeway, Woodinville, WA, 0, clothing, jeans, 307.0
+Safeway, Seattle, WA, 20, grocery, food, 940.0
+QFC, Kirkland, WA, 8, grocery, personal care, 128.0
+Amazon, Online, NA, 0, entertainment, bowling, 389.0
+QFC, Kirkland, WA, 8, grocery, personal care, 174.0
+Safeway, Woodinville, WA, 0, restaurant, seafood, 69.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 245.0
+Safeway, Seattle, WA, 20, entertainment, movie, 165.0
+Amazon, Online, NA, 0, restaurant, seafood, 313.0
+QFC, Kirkland, WA, 8, wire transfer, Safeway, 5873.0
+Safeway, Woodinville, WA, 0, entertainment, bowling, 107.0
+Safeway, Woodinville, WA, 0, grocery, food, 1759.0
+Safeway, Woodinville, WA, 0, grocery, food, 30.0
+Safeway, Seattle, WA, 20, wire transfer, gift card, 227.0
+Amazon, Online, NA, 0, restaurant, fast food, 18.0
+Safeway, Seattle, WA, 20, clothing, dress, 401.0
+Safeway, Woodinville, WA, 0, wire transfer, gift card, 322.0
+Safeway, Woodinville, WA, 0, entertainment, movie, 125.0
+Safeway, Seattle, WA, 20, entertainment, movie, 30.0
+Safeway, Seattle, WA, 20, wire transfer, QFC, 5103.0
+Safeway, Seattle, WA, 20, electronics, cell phone, 1282.0
+Safeway, Woodinville, WA, 0, clothing, shirt, 52.0
+Safeway, Woodinville, WA, 0, clothing, shoes, 879.0
+Safeway, Woodinville, WA, 0, clothing, dress, 272.0
+Safeway, Woodinville, WA, 0, restaurant, steak, 486.0
+Safeway, Woodinville, WA, 0, grocery, food, 1030.0
+Safeway, Seattle, WA, 20, clothing, shoes, 691.0
+Safeway, Seattle, WA, 20, entertainment, dining, 745.0
+Safeway, Seattle, WA, 20, restaurant, seafood, 373.0
+Safeway, Seattle, WA, 20, restaurant, fast food, 49.0
+Safeway, Woodinville, WA, 0, restaurant, dim sum, 771.0
+Safeway, Seattle, WA, 20, grocery, food, 1040.0
+QFC, Kirkland, WA, 8, electronics, cell phone, 2180.0
+QFC, Kirkland, WA, 8, withdrawl, ATM, 294.0
+QFC, Kirkland, WA, 8, grocery, food, 1559.0
+Amazon, Online, NA, 0, restaurant, dim sum, 765.0
+QFC, Kirkland, WA, 8, electronics, TV, 2449.0
+QFC, Kirkland, WA, 8, withdrawl, BANK, 98.0
+Safeway, Seattle, WA, 20, grocery, personal care, 48.0
+QFC, Kirkland, WA, 8, entertainment, bowling, 136.0
+Safeway, Seattle, WA, 20, entertainment, movie, 73.0
+Safeway, Seattle, WA, 20, grocery, personal care, 180.0
+Safeway, Woodinville, WA, 0, clothing, shirt, 68.0
+Amazon, Online, NA, 0, clothing, shirt, 44.0
+QFC, Kirkland, WA, 8, grocery, personal care, 138.0
+QFC, Kirkland, WA, 8, restaurant, fast food, 58.0
+Amazon, Online, NA, 0, clothing, jeans, 321.0
+Safeway, Seattle, WA, 20, entertainment, bowling, 238.0
+Amazon, Online, NA, 0, electronics, computer, 720.0
+Safeway, Woodinville, WA, 0, entertainment, bowling, 134.0
+QFC, Kirkland, WA, 8, clothing, shoes, 163.0
+Amazon, Online, NA, 0, entertainment, dining, 792.0
+Amazon, Online, NA, 0, entertainment, movie, 152.0
+Amazon, Online, NA, 0, grocery, personal care, 61.0
+Safeway, Woodinville, WA, 0, grocery, personal care, 55.0
+Safeway, Seattle, WA, 20, restaurant, dim sum, 346.0
+QFC, Kirkland, WA, 8, grocery, personal care, 60.0
+Amazon, Online, NA, 0, entertainment, dining, 200.0
+QFC, Kirkland, WA, 8, clothing, jeans, 81.0
+QFC, Kirkland, WA, 8, restaurant, fast food, 82.0
+Safeway, Seattle, WA, 20, grocery, personal care, 155.0
+Amazon, Online, NA, 0, entertainment, movie, 101.0
+QFC, Kirkland, WA, 8, restaurant, seafood, 481.0
+Amazon, Online, NA, 0, electronics, cell phone, 1441.0
+Safeway, Woodinville, WA, 0, electronics, stereo, 1340.0
+Amazon, Online, NA, 0, withdrawl, BANK, 112.0
+Safeway, Woodinville, WA, 0, electronics, TV, 3857.0
+Amazon, Online, NA, 0, electronics, TV, 3548.0
+QFC, Kirkland, WA, 8, restaurant, fast food, 23.0
+QFC, Kirkland, WA, 8, clothing, dress, 1433.0
+Safeway, Seattle, WA, 20, restaurant, seafood, 77.0
+QFC, Kirkland, WA, 8, electronics, TV, 2200.0
+Safeway, Seattle, WA, 20, withdrawl, BANK, 180.0
+Safeway, Woodinville, WA, 0, entertainment, movie, 163.0
+QFC, Kirkland, WA, 8, withdrawl, BANK, 73.0
+Amazon, Online, NA, 0, entertainment, movie, 145.0
+Amazon, Online, NA, 0, grocery, personal care, 168.0
+QFC, Kirkland, WA, 8, electronics, cell phone, 467.0
+QFC, Kirkland, WA, 8, grocery, personal care, 193.0
+Safeway, Seattle, WA, 20, withdrawl, BANK, 166.0
+Safeway, Woodinville, WA, 0, clothing, dress, 1609.0
+Safeway, Seattle, WA, 20, withdrawl, BANK, 121.0
+Amazon, Online, NA, 0, grocery, personal care, 104.0
+Safeway, Woodinville, WA, 0, grocery, food, 788.0
+QFC, Kirkland, WA, 8, grocery, personal care, 91.0
+Amazon, Online, NA, 0, entertainment, movie, 24.0
+Safeway, Seattle, WA, 20, clothing, shirt, 84.0
+Safeway, Seattle, WA, 20, grocery, personal care, 181.0
+Safeway, Seattle, WA, 20, electronics, TV, 1098.0
+Safeway, Seattle, WA, 20, entertainment, dining, 956.0
+Safeway, Seattle, WA, 20, wire transfer, Wells Fargo, 3776.0
+Safeway, Seattle, WA, 20, electronics, TV, 575.0
+Safeway, Seattle, WA, 20, entertainment, bowling, 479.0
+Safeway, Seattle, WA, 20, grocery, personal care, 146.0
+Amazon, Online, NA, 0, clothing, shoes, 768.0
+Amazon, Online, NA, 0, entertainment, dining, 556.0
+Amazon, Online, NA, 0, grocery, personal care, 104.0
+QFC, Kirkland, WA, 8, grocery, personal care, 180.0
+Amazon, Online, NA, 0, electronics, computer, 1931.0
+Safeway, Woodinville, WA, 0, grocery, food, 239.0
+Safeway, Seattle, WA, 20, withdrawl, ATM, 214.0
+Safeway, Woodinville, WA, 0, withdrawl, BANK, 56.0
+QFC, Kirkland, WA, 8, restaurant, dim sum, 560.0
+Safeway, Seattle, WA, 20, grocery, food, 1926.0
+Safeway, Woodinville, WA, 0, electronics, TV, 3875.0
+QFC, Kirkland, WA, 8, electronics, computer, 1751.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 27.0
+QFC, Kirkland, WA, 8, withdrawl, ATM, 216.0
+Amazon, Online, NA, 0, withdrawl, ATM, 120.0
+Safeway, Seattle, WA, 20, entertainment, bowling, 395.0
+Safeway, Seattle, WA, 20, withdrawl, ATM, 211.0
+Safeway, Seattle, WA, 20, wire transfer, Safeway, 1655.0
+Amazon, Online, NA, 0, clothing, shirt, 79.0
+Safeway, Seattle, WA, 20, grocery, personal care, 46.0
+Safeway, Woodinville, WA, 0, entertainment, movie, 171.0
+Safeway, Woodinville, WA, 0, electronics, computer, 1191.0
+Amazon, Online, NA, 0, clothing, jeans, 159.0
+QFC, Kirkland, WA, 8, entertainment, bowling, 300.0
+QFC, Kirkland, WA, 8, entertainment, bowling, 73.0
+Safeway, Woodinville, WA, 0, electronics, computer, 1262.0
+Amazon, Online, NA, 0, entertainment, bowling, 409.0
+Safeway, Seattle, WA, 20, clothing, dress, 474.0
+Amazon, Online, NA, 0, withdrawl, BANK, 211.0
+QFC, Kirkland, WA, 8, electronics, stereo, 2549.0
+Amazon, Online, NA, 0, grocery, food, 34.0
+Safeway, Woodinville, WA, 0, wire transfer, gift card, 317.0
+Safeway, Seattle, WA, 20, withdrawl, ATM, 19.0
+Amazon, Online, NA, 0, entertainment, dining, 323.0
+Amazon, Online, NA, 0, electronics, TV, 2540.0
+QFC, Kirkland, WA, 8, entertainment, dining, 352.0
+Amazon, Online, NA, 0, grocery, food, 674.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 201.0
+Safeway, Seattle, WA, 20, entertainment, dining, 304.0
+Amazon, Online, NA, 0, withdrawl, ATM, 146.0
+Safeway, Seattle, WA, 20, electronics, TV, 2671.0
+Safeway, Woodinville, WA, 0, entertainment, movie, 20.0
+Amazon, Online, NA, 0, wire transfer, Fred Meyer, 5637.0
+Safeway, Seattle, WA, 20, entertainment, movie, 165.0
+QFC, Kirkland, WA, 8, clothing, shirt, 48.0
+Amazon, Online, NA, 0, entertainment, dining, 348.0
+Safeway, Seattle, WA, 20, entertainment, bowling, 328.0
+Safeway, Woodinville, WA, 0, withdrawl, BANK, 35.0
+Amazon, Online, NA, 0, electronics, stereo, 1959.0
+QFC, Kirkland, WA, 8, clothing, shirt, 72.0
+QFC, Kirkland, WA, 8, electronics, computer, 1137.0
+Amazon, Online, NA, 0, electronics, stereo, 2098.0
+QFC, Kirkland, WA, 8, restaurant, dim sum, 518.0
+Safeway, Woodinville, WA, 0, withdrawl, BANK, 84.0
+Safeway, Woodinville, WA, 0, clothing, jeans, 216.0
+Amazon, Online, NA, 0, clothing, shoes, 176.0
+Safeway, Woodinville, WA, 0, wire transfer, Wells Fargo, 3145.0
+Safeway, Seattle, WA, 20, entertainment, dining, 326.0
+Safeway, Seattle, WA, 20, withdrawl, ATM, 191.0
+Amazon, Online, NA, 0, entertainment, dining, 195.0
+Safeway, Seattle, WA, 20, withdrawl, BANK, 17.0
+Amazon, Online, NA, 0, restaurant, steak, 303.0
+Safeway, Seattle, WA, 20, grocery, personal care, 168.0
+Safeway, Woodinville, WA, 0, withdrawl, BANK, 139.0
+Safeway, Seattle, WA, 20, entertainment, dining, 715.0
+Amazon, Online, NA, 0, entertainment, movie, 58.0
+QFC, Kirkland, WA, 8, clothing, dress, 1852.0
+Safeway, Woodinville, WA, 0, withdrawl, BANK, 297.0
+QFC, Kirkland, WA, 8, wire transfer, QFC, 1812.0
+Safeway, Seattle, WA, 20, entertainment, bowling, 467.0
+Safeway, Seattle, WA, 20, electronics, cell phone, 465.0
+QFC, Kirkland, WA, 8, entertainment, dining, 699.0
+Safeway, Seattle, WA, 20, clothing, dress, 399.0
+Safeway, Woodinville, WA, 0, withdrawl, BANK, 247.0
+Amazon, Online, NA, 0, electronics, stereo, 1882.0
+QFC, Kirkland, WA, 8, entertainment, movie, 76.0
+Safeway, Seattle, WA, 20, clothing, shoes, 902.0
+QFC, Kirkland, WA, 8, withdrawl, BANK, 163.0
+Safeway, Seattle, WA, 20, clothing, shoes, 962.0
+Safeway, Seattle, WA, 20, clothing, shoes, 289.0
+Safeway, Woodinville, WA, 0, grocery, food, 358.0
+Safeway, Seattle, WA, 20, grocery, food, 513.0
+QFC, Kirkland, WA, 8, electronics, TV, 3841.0
+Safeway, Woodinville, WA, 0, entertainment, bowling, 477.0
+Safeway, Woodinville, WA, 0, restaurant, dim sum, 426.0
+QFC, Kirkland, WA, 8, restaurant, fast food, 76.0
+Safeway, Seattle, WA, 20, entertainment, bowling, 95.0
+Safeway, Seattle, WA, 20, clothing, dress, 661.0
+Safeway, Seattle, WA, 20, grocery, food, 536.0
+Amazon, Online, NA, 0, entertainment, dining, 403.0
+Safeway, Seattle, WA, 20, grocery, food, 315.0
+QFC, Kirkland, WA, 8, entertainment, movie, 129.0
+Safeway, Woodinville, WA, 0, restaurant, dim sum, 459.0
+QFC, Kirkland, WA, 8, withdrawl, ATM, 291.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 62.0
+Safeway, Woodinville, WA, 0, entertainment, movie, 197.0
+QFC, Kirkland, WA, 8, entertainment, dining, 399.0
+QFC, Kirkland, WA, 8, clothing, dress, 1961.0
+Safeway, Seattle, WA, 20, entertainment, movie, 153.0
+Safeway, Seattle, WA, 20, electronics, stereo, 2386.0
+Amazon, Online, NA, 0, restaurant, steak, 291.0
+Safeway, Seattle, WA, 20, restaurant, seafood, 273.0
+Amazon, Online, NA, 0, entertainment, movie, 186.0
+Safeway, Woodinville, WA, 0, grocery, personal care, 15.0
+Safeway, Seattle, WA, 20, entertainment, bowling, 271.0
+QFC, Kirkland, WA, 8, clothing, dress, 645.0
+Safeway, Seattle, WA, 20, restaurant, seafood, 54.0
+Safeway, Seattle, WA, 20, restaurant, seafood, 190.0
+Safeway, Seattle, WA, 20, withdrawl, ATM, 169.0
+Amazon, Online, NA, 0, electronics, computer, 1506.0
+QFC, Kirkland, WA, 8, grocery, personal care, 196.0
+Safeway, Seattle, WA, 20, wire transfer, gift card, 368.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 205.0
+QFC, Kirkland, WA, 8, withdrawl, ATM, 64.0
+Safeway, Seattle, WA, 20, withdrawl, BANK, 278.0
+Safeway, Seattle, WA, 20, entertainment, movie, 31.0
+Amazon, Online, NA, 0, electronics, computer, 1171.0
+Safeway, Seattle, WA, 20, grocery, food, 1020.0
+Safeway, Seattle, WA, 20, wire transfer, Wells Fargo, 9248.0
+Safeway, Seattle, WA, 20, grocery, personal care, 24.0
+Amazon, Online, NA, 0, electronics, computer, 1484.0
+Safeway, Seattle, WA, 20, grocery, food, 552.0
+QFC, Kirkland, WA, 8, electronics, computer, 616.0
+Safeway, Seattle, WA, 20, restaurant, fast food, 40.0
+QFC, Kirkland, WA, 8, entertainment, dining, 968.0
+Amazon, Online, NA, 0, entertainment, bowling, 429.0
+Safeway, Seattle, WA, 20, clothing, dress, 643.0
+Safeway, Seattle, WA, 20, restaurant, seafood, 498.0
+Amazon, Online, NA, 0, clothing, jeans, 80.0
+QFC, Kirkland, WA, 8, restaurant, seafood, 195.0
+Amazon, Online, NA, 0, restaurant, seafood, 287.0
+QFC, Kirkland, WA, 8, grocery, personal care, 139.0
+Amazon, Online, NA, 0, grocery, food, 1598.0
+Safeway, Seattle, WA, 20, restaurant, steak, 466.0
+Amazon, Online, NA, 0, grocery, personal care, 53.0
+QFC, Kirkland, WA, 8, restaurant, fast food, 50.0
+Safeway, Seattle, WA, 20, withdrawl, ATM, 147.0
+Safeway, Seattle, WA, 20, clothing, shirt, 22.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 224.0
+QFC, Kirkland, WA, 8, clothing, shirt, 68.0
+QFC, Kirkland, WA, 8, withdrawl, ATM, 237.0
+Amazon, Online, NA, 0, restaurant, steak, 85.0
+Safeway, Seattle, WA, 20, electronics, cell phone, 871.0
+Amazon, Online, NA, 0, entertainment, bowling, 430.0
+Safeway, Seattle, WA, 20, grocery, personal care, 103.0
+Amazon, Online, NA, 0, clothing, jeans, 492.0
+QFC, Kirkland, WA, 8, restaurant, dim sum, 340.0
+QFC, Kirkland, WA, 8, withdrawl, BANK, 29.0
+Safeway, Woodinville, WA, 0, withdrawl, BANK, 43.0
+Amazon, Online, NA, 0, electronics, cell phone, 1261.0
+QFC, Kirkland, WA, 8, wire transfer, Safeway, 5520.0
+Safeway, Woodinville, WA, 0, clothing, shoes, 657.0
+Safeway, Seattle, WA, 20, clothing, dress, 914.0
+Safeway, Woodinville, WA, 0, withdrawl, BANK, 113.0
+Safeway, Woodinville, WA, 0, grocery, personal care, 94.0
+Safeway, Woodinville, WA, 0, electronics, computer, 561.0
+Safeway, Woodinville, WA, 0, electronics, TV, 3388.0
+QFC, Kirkland, WA, 8, withdrawl, ATM, 186.0
+Safeway, Seattle, WA, 20, entertainment, bowling, 99.0
+QFC, Kirkland, WA, 8, withdrawl, BANK, 220.0
+Safeway, Seattle, WA, 20, wire transfer, Wells Fargo, 2935.0
+QFC, Kirkland, WA, 8, grocery, food, 582.0
+Safeway, Seattle, WA, 20, restaurant, fast food, 61.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 294.0
+Safeway, Woodinville, WA, 0, electronics, computer, 545.0
+QFC, Kirkland, WA, 8, restaurant, fast food, 12.0
+Safeway, Seattle, WA, 20, grocery, personal care, 105.0
+QFC, Kirkland, WA, 8, clothing, shirt, 60.0
+QFC, Kirkland, WA, 8, clothing, shirt, 99.0
+Safeway, Woodinville, WA, 0, clothing, shirt, 56.0
+QFC, Kirkland, WA, 8, entertainment, movie, 69.0
+Safeway, Seattle, WA, 20, restaurant, steak, 37.0
+Safeway, Woodinville, WA, 0, grocery, food, 504.0
+Safeway, Seattle, WA, 20, restaurant, fast food, 29.0
+Safeway, Woodinville, WA, 0, entertainment, movie, 72.0
+Amazon, Online, NA, 0, entertainment, bowling, 420.0
+Amazon, Online, NA, 0, withdrawl, ATM, 81.0
+Safeway, Seattle, WA, 20, restaurant, steak, 383.0
+Safeway, Woodinville, WA, 0, entertainment, dining, 45.0
+Safeway, Seattle, WA, 20, electronics, cell phone, 2649.0
+Safeway, Woodinville, WA, 0, entertainment, dining, 310.0
+QFC, Kirkland, WA, 8, restaurant, fast food, 87.0
+Amazon, Online, NA, 0, restaurant, seafood, 211.0
+QFC, Kirkland, WA, 8, clothing, dress, 757.0
+Safeway, Seattle, WA, 20, grocery, food, 1315.0
+Amazon, Online, NA, 0, restaurant, seafood, 122.0
+Amazon, Online, NA, 0, withdrawl, ATM, 12.0
+Amazon, Online, NA, 0, grocery, food, 900.0
+Amazon, Online, NA, 0, clothing, shoes, 300.0
+Amazon, Online, NA, 0, grocery, food, 1529.0
+QFC, Kirkland, WA, 8, wire transfer, Wells Fargo, 1566.0
+Safeway, Woodinville, WA, 0, electronics, computer, 1068.0
+Amazon, Online, NA, 0, clothing, jeans, 476.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 93.0
+QFC, Kirkland, WA, 8, clothing, jeans, 313.0
+Safeway, Seattle, WA, 20, entertainment, bowling, 80.0
+QFC, Kirkland, WA, 8, electronics, cell phone, 1822.0
+Safeway, Seattle, WA, 20, grocery, personal care, 141.0
+Amazon, Online, NA, 0, withdrawl, BANK, 228.0
+QFC, Kirkland, WA, 8, restaurant, steak, 342.0
+Safeway, Woodinville, WA, 0, withdrawl, BANK, 29.0
+Amazon, Online, NA, 0, wire transfer, gift card, 187.0
+Safeway, Woodinville, WA, 0, clothing, dress, 1028.0
+Amazon, Online, NA, 0, withdrawl, ATM, 151.0
+Amazon, Online, NA, 0, withdrawl, BANK, 279.0
+Safeway, Seattle, WA, 20, entertainment, dining, 190.0
+Safeway, Woodinville, WA, 0, grocery, personal care, 22.0
+Amazon, Online, NA, 0, withdrawl, BANK, 275.0
+Amazon, Online, NA, 0, wire transfer, Safeway, 3119.0
+QFC, Kirkland, WA, 8, entertainment, dining, 814.0
+Safeway, Seattle, WA, 20, entertainment, dining, 137.0
+Safeway, Woodinville, WA, 0, restaurant, fast food, 25.0
+Safeway, Woodinville, WA, 0, electronics, cell phone, 1506.0
+Safeway, Seattle, WA, 20, electronics, computer, 1708.0
+QFC, Kirkland, WA, 8, restaurant, steak, 401.0
+QFC, Kirkland, WA, 8, grocery, personal care, 90.0
+Safeway, Seattle, WA, 20, withdrawl, BANK, 243.0
+QFC, Kirkland, WA, 8, clothing, dress, 1446.0
+QFC, Kirkland, WA, 8, grocery, personal care, 38.0
+Amazon, Online, NA, 0, withdrawl, BANK, 210.0
+Amazon, Online, NA, 0, clothing, shoes, 950.0
+Safeway, Woodinville, WA, 0, clothing, dress, 1322.0
+Amazon, Online, NA, 0, entertainment, bowling, 244.0
+QFC, Kirkland, WA, 8, grocery, food, 395.0
+Safeway, Seattle, WA, 20, wire transfer, gift card, 351.0
+Safeway, Seattle, WA, 20, entertainment, bowling, 430.0
+Amazon, Online, NA, 0, clothing, shoes, 249.0
+Amazon, Online, NA, 0, electronics, stereo, 1227.0
+Safeway, Seattle, WA, 20, withdrawl, ATM, 288.0
+QFC, Kirkland, WA, 8, electronics, cell phone, 2785.0
+QFC, Kirkland, WA, 8, grocery, food, 1478.0
+Safeway, Seattle, WA, 20, restaurant, seafood, 464.0
+Amazon, Online, NA, 0, entertainment, movie, 92.0
+Safeway, Woodinville, WA, 0, wire transfer, Wells Fargo, 2304.0
+Safeway, Seattle, WA, 20, electronics, stereo, 2863.0
+Amazon, Online, NA, 0, entertainment, bowling, 68.0
+QFC, Kirkland, WA, 8, restaurant, seafood, 202.0
+Safeway, Woodinville, WA, 0, restaurant, steak, 363.0
+Amazon, Online, NA, 0, electronics, stereo, 1606.0
+Safeway, Woodinville, WA, 0, clothing, dress, 222.0
+Safeway, Woodinville, WA, 0, wire transfer, QFC, 1156.0
+Amazon, Online, NA, 0, grocery, food, 612.0
+Safeway, Seattle, WA, 20, grocery, personal care, 40.0
+Safeway, Woodinville, WA, 0, wire transfer, QFC, 9889.0
+QFC, Kirkland, WA, 8, grocery, food, 810.0
+Amazon, Online, NA, 0, entertainment, bowling, 73.0
+QFC, Kirkland, WA, 8, electronics, stereo, 603.0
+Safeway, Woodinville, WA, 0, entertainment, dining, 75.0
+Safeway, Seattle, WA, 20, entertainment, movie, 48.0
+Safeway, Seattle, WA, 20, withdrawl, BANK, 186.0
+Safeway, Woodinville, WA, 0, restaurant, fast food, 62.0
+Safeway, Seattle, WA, 20, electronics, computer, 290.0
+QFC, Kirkland, WA, 8, electronics, TV, 2867.0
+QFC, Kirkland, WA, 8, wire transfer, Wells Fargo, 4810.0
+Safeway, Woodinville, WA, 0, entertainment, dining, 825.0
+Safeway, Woodinville, WA, 0, grocery, personal care, 135.0
+QFC, Kirkland, WA, 8, restaurant, dim sum, 702.0
+Amazon, Online, NA, 0, restaurant, fast food, 42.0
+QFC, Kirkland, WA, 8, withdrawl, BANK, 63.0
+QFC, Kirkland, WA, 8, entertainment, movie, 170.0
+QFC, Kirkland, WA, 8, clothing, dress, 1237.0
+Amazon, Online, NA, 0, restaurant, fast food, 60.0
+Safeway, Seattle, WA, 20, wire transfer, gift card, 465.0
+Safeway, Woodinville, WA, 0, restaurant, dim sum, 785.0
+Amazon, Online, NA, 0, withdrawl, BANK, 45.0
+Safeway, Woodinville, WA, 0, restaurant, fast food, 70.0
+QFC, Kirkland, WA, 8, restaurant, steak, 489.0
+QFC, Kirkland, WA, 8, withdrawl, BANK, 264.0
+QFC, Kirkland, WA, 8, entertainment, movie, 101.0
+Amazon, Online, NA, 0, clothing, dress, 1272.0
+Safeway, Seattle, WA, 20, electronics, stereo, 2453.0
+QFC, Kirkland, WA, 8, restaurant, dim sum, 50.0
+Safeway, Woodinville, WA, 0, entertainment, dining, 792.0
+QFC, Kirkland, WA, 8, electronics, TV, 4365.0
+Safeway, Seattle, WA, 20, restaurant, seafood, 468.0
+Safeway, Woodinville, WA, 0, electronics, stereo, 708.0
+Safeway, Seattle, WA, 20, electronics, stereo, 2051.0
+Safeway, Woodinville, WA, 0, electronics, cell phone, 2585.0
+Safeway, Woodinville, WA, 0, electronics, cell phone, 1314.0
+Amazon, Online, NA, 0, electronics, computer, 980.0
+Safeway, Woodinville, WA, 0, grocery, food, 1949.0
+Safeway, Seattle, WA, 20, wire transfer, QFC, 5715.0
+Safeway, Seattle, WA, 20, restaurant, steak, 467.0
+QFC, Kirkland, WA, 8, entertainment, dining, 942.0
+Safeway, Seattle, WA, 20, grocery, food, 1827.0
+Amazon, Online, NA, 0, restaurant, dim sum, 603.0
+QFC, Kirkland, WA, 8, wire transfer, Wells Fargo, 9795.0
+Amazon, Online, NA, 0, clothing, shoes, 699.0
+Safeway, Woodinville, WA, 0, grocery, personal care, 81.0
+Amazon, Online, NA, 0, electronics, TV, 4758.0
+Safeway, Seattle, WA, 20, grocery, food, 1133.0
+Amazon, Online, NA, 0, restaurant, steak, 495.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 82.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 88.0
+Safeway, Seattle, WA, 20, clothing, jeans, 319.0
+QFC, Kirkland, WA, 8, electronics, computer, 528.0
+Safeway, Seattle, WA, 20, entertainment, bowling, 105.0
+Safeway, Woodinville, WA, 0, clothing, shoes, 153.0
+Safeway, Seattle, WA, 20, clothing, jeans, 469.0
+Amazon, Online, NA, 0, entertainment, movie, 106.0
+Amazon, Online, NA, 0, entertainment, bowling, 317.0
+Safeway, Seattle, WA, 20, restaurant, steak, 280.0
+Safeway, Woodinville, WA, 0, entertainment, bowling, 445.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 241.0
+Safeway, Woodinville, WA, 0, grocery, personal care, 73.0
+Safeway, Seattle, WA, 20, entertainment, dining, 357.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 208.0
+QFC, Kirkland, WA, 8, clothing, dress, 789.0
+QFC, Kirkland, WA, 8, withdrawl, ATM, 256.0
+QFC, Kirkland, WA, 8, withdrawl, BANK, 39.0
+Safeway, Woodinville, WA, 0, withdrawl, BANK, 290.0
+Safeway, Seattle, WA, 20, electronics, stereo, 1790.0
+QFC, Kirkland, WA, 8, electronics, stereo, 2218.0
+Amazon, Online, NA, 0, entertainment, bowling, 450.0
+Safeway, Woodinville, WA, 0, restaurant, steak, 208.0
+QFC, Kirkland, WA, 8, entertainment, dining, 242.0
+Safeway, Seattle, WA, 20, electronics, TV, 4993.0
+QFC, Kirkland, WA, 8, electronics, stereo, 1282.0
+Safeway, Woodinville, WA, 0, restaurant, seafood, 297.0
+QFC, Kirkland, WA, 8, restaurant, fast food, 91.0
+Safeway, Seattle, WA, 20, entertainment, dining, 819.0
+Amazon, Online, NA, 0, grocery, personal care, 76.0
+Amazon, Online, NA, 0, grocery, food, 771.0
+Amazon, Online, NA, 0, electronics, TV, 4192.0
+Amazon, Online, NA, 0, grocery, personal care, 190.0
+Safeway, Seattle, WA, 20, clothing, shirt, 43.0
+Safeway, Seattle, WA, 20, clothing, shirt, 68.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 52.0
+QFC, Kirkland, WA, 8, restaurant, fast food, 92.0
+Safeway, Seattle, WA, 20, electronics, TV, 1113.0
+Safeway, Woodinville, WA, 0, entertainment, dining, 939.0
+Amazon, Online, NA, 0, grocery, food, 566.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 182.0
+Amazon, Online, NA, 0, restaurant, seafood, 87.0
+Safeway, Woodinville, WA, 0, electronics, TV, 4212.0
+Safeway, Seattle, WA, 20, electronics, TV, 3929.0
+Safeway, Seattle, WA, 20, grocery, personal care, 70.0
+Safeway, Woodinville, WA, 0, electronics, computer, 903.0
+QFC, Kirkland, WA, 8, clothing, dress, 1894.0
+Safeway, Woodinville, WA, 0, clothing, shoes, 602.0
+Safeway, Seattle, WA, 20, withdrawl, BANK, 286.0
+Safeway, Woodinville, WA, 0, restaurant, dim sum, 99.0
+Safeway, Woodinville, WA, 0, clothing, shirt, 67.0
+Safeway, Seattle, WA, 20, entertainment, movie, 144.0
+Amazon, Online, NA, 0, electronics, TV, 3503.0
+Safeway, Seattle, WA, 20, withdrawl, ATM, 89.0
+Amazon, Online, NA, 0, entertainment, bowling, 210.0
+Safeway, Seattle, WA, 20, electronics, computer, 1926.0
+Safeway, Woodinville, WA, 0, clothing, dress, 1474.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 235.0
+Safeway, Seattle, WA, 20, clothing, shirt, 75.0
+QFC, Kirkland, WA, 8, restaurant, seafood, 83.0
+Amazon, Online, NA, 0, wire transfer, QFC, 5004.0
+Amazon, Online, NA, 0, grocery, personal care, 36.0
+Safeway, Seattle, WA, 20, entertainment, bowling, 183.0
+Safeway, Woodinville, WA, 0, clothing, shoes, 101.0
+Safeway, Seattle, WA, 20, restaurant, steak, 87.0
+Safeway, Seattle, WA, 20, clothing, jeans, 319.0
+Safeway, Woodinville, WA, 0, grocery, personal care, 127.0
+Safeway, Seattle, WA, 20, entertainment, movie, 81.0
+Safeway, Woodinville, WA, 0, restaurant, dim sum, 659.0
+Safeway, Woodinville, WA, 0, restaurant, seafood, 63.0
+Safeway, Seattle, WA, 20, withdrawl, BANK, 269.0
+QFC, Kirkland, WA, 8, withdrawl, ATM, 87.0
+Amazon, Online, NA, 0, grocery, food, 1278.0
+Safeway, Woodinville, WA, 0, clothing, shirt, 52.0
+Safeway, Seattle, WA, 20, grocery, food, 145.0
+Safeway, Woodinville, WA, 0, electronics, computer, 489.0
+Amazon, Online, NA, 0, grocery, personal care, 120.0
+Safeway, Seattle, WA, 20, wire transfer, QFC, 4783.0
+QFC, Kirkland, WA, 8, clothing, jeans, 325.0
+Amazon, Online, NA, 0, restaurant, seafood, 324.0
+Amazon, Online, NA, 0, clothing, jeans, 180.0
+Safeway, Seattle, WA, 20, withdrawl, ATM, 176.0
+QFC, Kirkland, WA, 8, clothing, jeans, 494.0
+Safeway, Seattle, WA, 20, clothing, shoes, 303.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 57.0
+Safeway, Woodinville, WA, 0, withdrawl, ATM, 51.0
+Amazon, Online, NA, 0, electronics, TV, 1474.0
+QFC, Kirkland, WA, 8, clothing, dress, 1333.0
+QFC, Kirkland, WA, 8, clothing, shirt, 71.0
+Safeway, Woodinville, WA, 0, withdrawl, BANK, 77.0
+QFC, Kirkland, WA, 8, withdrawl, ATM, 78.0
+Safeway, Seattle, WA, 20, electronics, TV, 2679.0
+Safeway, Seattle, WA, 20, entertainment, movie, 148.0
+Safeway, Seattle, WA, 20, electronics, cell phone, 511.0
+Amazon, Online, NA, 0, electronics, computer, 952.0
+Amazon, Online, NA, 0, restaurant, dim sum, 612.0
+Safeway, Seattle, WA, 20, electronics, TV, 2872.0
+Safeway, Woodinville, WA, 0, withdrawl, BANK, 116.0
+Safeway, Seattle, WA, 20, entertainment, bowling, 164.0
+Safeway, Seattle, WA, 20, restaurant, seafood, 109.0
+Amazon, Online, NA, 0, withdrawl, ATM, 33.0
+Safeway, Seattle, WA, 20, clothing, shirt, 92.0
+Safeway, Woodinville, WA, 0, clothing, shoes, 328.0
+QFC, Kirkland, WA, 8, restaurant, steak, 296.0
+Amazon, Online, NA, 0, grocery, food, 157.0
+Safeway, Seattle, WA, 20, clothing, shoes, 712.0
+Safeway, Woodinville, WA, 0, grocery, personal care, 38.0
+Amazon, Online, NA, 0, entertainment, bowling, 414.0
+Amazon, Online, NA, 0, electronics, TV, 2912.0
+QFC, Kirkland, WA, 8, wire transfer, Wells Fargo, 2546.0
+Amazon, Online, NA, 0, withdrawl, ATM, 201.0
+Amazon, Online, NA, 0, withdrawl, BANK, 163.0
+Amazon, Online, NA, 0, grocery, personal care, 135.0
+Safeway, Woodinville, WA, 0, electronics, computer, 1562.0
+QFC, Kirkland, WA, 8, withdrawl, ATM, 236.0
+Safeway, Seattle, WA, 20, wire transfer, gift card, 323.0
+Safeway, Woodinville, WA, 0, grocery, food, 1590.0
+Safeway, Woodinville, WA, 0, entertainment, dining, 112.0
+Safeway, Woodinville, WA, 0, withdrawl, BANK, 35.0
+Safeway, Woodinville, WA, 0, entertainment, bowling, 115.0
+Safeway, Woodinville, WA, 0, clothing, dress, 959.0
+Safeway, Woodinville, WA, 0, withdrawl, BANK, 271.0
+Safeway, Woodinville, WA, 0, entertainment, bowling, 92.0
+Amazon, Online, NA, 0, clothing, jeans, 396.0
+Amazon, Online, NA, 0, clothing, shoes, 614.0
+QFC, Kirkland, WA, 8, clothing, dress, 1112.0
+Amazon, Online, NA, 0, entertainment, movie, 22.0
+Amazon, Online, NA, 0, restaurant, seafood, 225.0
+Safeway, Woodinville, WA, 0, entertainment, dining, 62.0
+Safeway, Woodinville, WA, 0, entertainment, movie, 195.0
+QFC, Kirkland, WA, 8, clothing, shoes, 763.0
+Safeway, Woodinville, WA, 0, grocery, food, 1533.0
+Amazon, Online, NA, 0, clothing, dress, 1253.0
+QFC, Kirkland, WA, 8, withdrawl, ATM, 239.0
+Amazon, Online, NA, 0, withdrawl, BANK, 36.0
+Safeway, Seattle, WA, 20, entertainment, bowling, 87.0
+Safeway, Seattle, WA, 20, grocery, food, 289.0
+QFC, Kirkland, WA, 8, entertainment, dining, 476.0
+Safeway, Woodinville, WA, 0, grocery, food, 1798.0
+QFC, Kirkland, WA, 8, clothing, dress, 242.0
+Amazon, Online, NA, 0, wire transfer, Safeway, 7970.0
+Amazon, Online, NA, 0, entertainment, bowling, 359.0
+Safeway, Seattle, WA, 20, withdrawl, ATM, 24.0
+Safeway, Woodinville, WA, 0, restaurant, seafood, 112.0
+QFC, Kirkland, WA, 8, entertainment, movie, 151.0
+Safeway, Woodinville, WA, 0, electronics, cell phone, 535.0
+Safeway, Woodinville, WA, 0, grocery, food, 830.0
+Safeway, Seattle, WA, 20, entertainment, dining, 713.0
+Safeway, Seattle, WA, 20, clothing, shoes, 368.0
+Safeway, Woodinville, WA, 0, entertainment, movie, 86.0
+Amazon, Online, NA, 0, wire transfer, Wells Fargo, 9279.0
+Amazon, Online, NA, 0, electronics, cell phone, 1732.0
+Safeway, Woodinville, WA, 0, entertainment, movie, 191.0
+Amazon, Online, NA, 0, grocery, personal care, 29.0
+Safeway, Woodinville, WA, 0, electronics, computer, 1550.0
+QFC, Kirkland, WA, 8, wire transfer, Safeway, 3870.0
+Amazon, Online, NA, 0, restaurant, steak, 349.0
+Safeway, Seattle, WA, 20, restaurant, dim sum, 212.0
+QFC, Kirkland, WA, 8, restaurant, fast food, 23.0
+Safeway, Woodinville, WA, 0, clothing, dress, 75.0
+Safeway, Seattle, WA, 20, entertainment, dining, 639.0
+Amazon, Online, NA, 0, entertainment, bowling, 104.0
+Safeway, Seattle, WA, 20, withdrawl, ATM, 213.0
+Safeway, Woodinville, WA, 0, restaurant, dim sum, 142.0
+QFC, Kirkland, WA, 8, withdrawl, BANK, 191.0
+QFC, Kirkland, WA, 8, withdrawl, ATM, 210.0
+Amazon, Online, NA, 0, electronics, TV, 3070.0
+Safeway, Woodinville, WA, 0, restaurant, steak, 401.0
+Safeway, Woodinville, WA, 0, electronics, TV, 1526.0
+QFC, Kirkland, WA, 8, entertainment, bowling, 399.0
+Amazon, Online, NA, 0, clothing, shirt, 35.0
+Amazon, Online, NA, 0, withdrawl, BANK, 192.0
+Amazon, Online, NA, 0, grocery, personal care, 115.0
+Amazon, Online, NA, 0, restaurant, seafood, 475.0
