@@ -6,10 +6,10 @@ import socket
 import json
 
 # Replace the values below with yours
-ACCESS_TOKEN = '1242300554006515713-IYCKntEBdSccoPojwJFTXf4Q2AiidN'
-ACCESS_SECRET = 'zrMxxaEZPEWDihE1vQE4E1vtpIlMlaqBDL9eySXlCH1sC'
-CONSUMER_KEY = 'd2N1KH6ButmAHwq2b3sQ2SXVN'
-CONSUMER_SECRET = 'zHNPzGoyDfFcTMpu1BeIdeFvyB4wvPp4p1fQyYkclvoqrN52Ri'
+ACCESS_TOKEN = ''
+ACCESS_SECRET = ''
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
 
 class TweetsListener(StreamListener):
   def __init__(self, csocket):
