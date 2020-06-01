@@ -1,0 +1,9 @@
+D:\visualStudioProjects\SparkStreamHSDemo\SparkStreamHSDemo\bin\Debug\SparkStreamHSDemo.exe
+D:\visualStudioProjects\SparkStreamHSDemo\SparkStreamHSDemo\bin\Debug\SparkStreamHSDemo.pdb
+D:\visualStudioProjects\SparkStreamHSDemo\SparkStreamHSDemo\obj\Debug\SparkStreamHSDemo.Properties.Resources.resources
+D:\visualStudioProjects\SparkStreamHSDemo\SparkStreamHSDemo\obj\Debug\SparkStreamHSDemo.csproj.GenerateResource.cache
+D:\visualStudioProjects\SparkStreamHSDemo\SparkStreamHSDemo\obj\Debug\SparkStreamHSDemo.csproj.CoreCompileInputs.cache
+D:\visualStudioProjects\SparkStreamHSDemo\SparkStreamHSDemo\obj\Debug\SparkStreamHSDemo.exe
+D:\visualStudioProjects\SparkStreamHSDemo\SparkStreamHSDemo\obj\Debug\SparkStreamHSDemo.pdb
+D:\visualStudioProjects\SparkStreamHSDemo\SparkStreamHSDemo\obj\Debug\SparkStreamHSDemo.csprojAssemblyReference.cache
+D:\visualStudioProjects\SparkStreamHSDemo\SparkStreamHSDemo\obj\Debug\SparkStreamHSDemo.Form1.resources
