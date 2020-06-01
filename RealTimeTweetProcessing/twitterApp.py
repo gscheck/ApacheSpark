@@ -6,10 +6,10 @@ import json
 import time
 
 # Replace the values below with yours
-ACCESS_TOKEN = '1242300554006515713-IYCKntEBdSccoPojwJFTXf4Q2AiidN'
-ACCESS_SECRET = 'zrMxxaEZPEWDihE1vQE4E1vtpIlMlaqBDL9eySXlCH1sC'
-CONSUMER_KEY = 'd2N1KH6ButmAHwq2b3sQ2SXVN'
-CONSUMER_SECRET = 'zHNPzGoyDfFcTMpu1BeIdeFvyB4wvPp4p1fQyYkclvoqrN52Ri'
+ACCESS_TOKEN = ''
+ACCESS_SECRET = ''
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
 my_auth = requests_oauthlib.OAuth1(CONSUMER_KEY, CONSUMER_SECRET,ACCESS_TOKEN, ACCESS_SECRET)
 
 def get_tweets():
