@@ -1,0 +1,17 @@
+CREATE DATABASE `twitter` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */;
+
+CREATE TABLE `tweet_t` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `tweet` varchar(200) DEFAULT NULL,
+  `prediction` int(11) DEFAULT NULL,
+  `posted` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3643 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+CREATE TABLE `word_count_t` (
+  `word` varchar(100) NOT NULL,
+  `wd_count` int(11) DEFAULT NULL,
+  `ID` int(11) NOT NULL AUTO_INCREMENT,
+  `rec_dt` datetime DEFAULT NULL,
+  PRIMARY KEY (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=51281 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
